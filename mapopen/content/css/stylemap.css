@@ -1,0 +1,17 @@
+.map {
+overflow: hidden;
+color: black;
+}
+#mapopen-click-logo {
+    cursor: pointer;
+}
+#mapopen-click-logo:active {
+    cursor: touch;
+}
+#credits {
+    position: absolute;
+    width: 170px; 
+    top: 600px;
+    z-index: 1000;
+    background-color: white;
+}
